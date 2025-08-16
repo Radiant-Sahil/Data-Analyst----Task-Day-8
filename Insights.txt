@@ -1,0 +1,10 @@
+INSIGHTS BASED ON THE DASHBOARD
+
+1. **Top Performing Region**:
+   The **Central** region leads in sales with **2.8M**, significantly ahead of the next closest region, the South (1.6M). This suggests that Central is a key contributor to overall revenue.
+
+2. **Product Category Impact**:
+   **Technology** is the most profitable and highest-grossing category with **4.75M in sales** and **663.78K in profit**, indicating it is the core driver of business performance.
+
+3. **Positive Sales Trend Over Time**:
+   The **Sales Trends** chart shows a steady upward trend from 2011 to 2014, with peaks reaching **40K in late 2014**, indicating consistent business growth over the years.
